@@ -2,3 +2,4 @@
 
 export(imputeRowMeans)
 export(locf)
+export(nocb)

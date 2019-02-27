@@ -3,7 +3,7 @@ Title: A Collection of Methods for Single Value Imputation
 Version: 0.0.0.9000
 Authors@R: person("Rubaiya", "Islam", email = "rubaiya.r.islam@gmail.com", role = c("aut", "cre"))
 Description: A collection of methods for single value imputation in R. 
-    Currently contains functions for Last Observation Carried Forward and Row Mean Imputation
+    Currently contains functions for Last Observation Carried Forward, Next Observation Carried Backwards, and Row Mean Imputation
     The methods are from this paper: 
     Engels, Jean Mundahl and Paula K. Diehr. "Imputation of missing longitudinal data: a comparison of methods." Journal of clinical epidemiology 56 10 (2003): 968-76 .
 Depends: R (>= 3.5.1)
